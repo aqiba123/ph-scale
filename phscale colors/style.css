@@ -1,0 +1,72 @@
+body {
+    color: antiquewhite;
+    background-color: silver;
+    padding: 5px;
+}
+
+p {
+    padding: 5px;
+    margin: 5px;
+}
+
+.zero {
+    background-color: #da3d75;
+}
+
+.one {
+    background-color: #db5580;
+}
+
+.two {
+    background-color: #e0658a;
+}
+
+.three {
+    background-color: #e2749a;
+}
+
+.four {
+    background-color: #e587a7;
+}
+
+.five {
+    background-color: #e799b5;
+}
+
+.six {
+    background-color: #e7abc1;
+}
+
+.seven {
+
+    background-color: #23ab7e;
+}
+
+.eight {
+    background-color: #8dc4df;
+}
+
+.nine {
+    background-color: #75bada;
+}
+
+.ten {
+    background-color: #5fadd2;
+}
+
+.eleven {
+    background-color: #469fcb;
+}
+
+.twelve {
+    background-color: #3293c3;
+}
+
+.thirteen {
+    background-color: rgb(54, 134, 185);
+}
+
+.fourthteen {
+
+    background-color: rgb(53, 122, 175);
+}
